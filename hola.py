@@ -10,3 +10,9 @@ print('hola mundo')
 for i in range(10):
     print(i)
     
+#Si aparece en rojo hay un cambio entonces toca guardar con (git add hola.py)
+#vuelvo a git commit -m "conteo"
+#git log 
+
+for i in range(10):
+    print(10-i)
